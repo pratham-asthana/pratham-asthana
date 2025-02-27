@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm Pratham Asthana  
 
-🚀 **AI & ML Enthusiast | Web Developer | IoT Innovator | Musician** 🎸  
+🚀 **AI & ML Enthusiast | Data Science & Neural Networks | Musician** 🎸  
 
 💡 Passionate about **AI, Deep Learning, and Computer Vision**  
 🎯 Building **real-time intelligent systems** using **Python, OpenCV, MediaPipe & PyTorch**  
