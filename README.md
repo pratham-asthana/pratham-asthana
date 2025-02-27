@@ -18,11 +18,11 @@
 
 ## 🛠️ Tech Stack  
 
-🔹 **Languages:** Python 🐍, JavaScript 🟡, C++ 🚀  
+🔹 **Languages:** Python 🐍, C 🚀  
 🔹 **ML/DL Frameworks:** TensorFlow, PyTorch, Scikit-learn, OpenCV, MediaPipe  
-🔹 **Web Development:** React.js ⚛️, Flask 🌎, FastAPI 🚀, Streamlit  
-🔹 **Databases:** MySQL, Firebase 🔥, MongoDB  
-🔹 **Cloud & Deployment:** Docker 🐳, AWS ☁️, GitHub Actions 🚀  
+🔹 **Web Development:** Streamlit  
+🔹 **Databases:** MySQL, Firebase 🔥
+🔹 **Cloud & Deployment:** Streamlit, AWS ☁️, GitHub Actions 🚀  
 
 ---
 
@@ -31,8 +31,10 @@
 🔹 **🎯 Real-time Object Detection & Segmentation** – Using Fast R-CNN & OpenCV  
 🔹 **🧠 LLM-powered Student Management System** – AI chatbot for book recommendations  
 🔹 **🖐️ Sign Language Recognition** – Real-time detection of full words using MediaPipe  
-🔹 **🥁 Virtual Drum Kit** – Playing drums with hand & leg movement tracking  
-🔹 **🚨 Intruder Alert System** – IoT-based security system with ESP8266 & sensors  
+🔹 **📩 Spam Classifier** – Detects and filters spam messages using ML techniques  
+🔹 **💬 Chatter Bot using Gemini API** – AI-powered chatbot leveraging Gemini API  
+🔹 **🌿 Plant Disease Detection Model** – Identifies plant diseases using deep learning  
+ 
 
 💻 Check out my projects **[here](https://github.com/pratham-asthana?tab=repositories)**! 🚀  
 
