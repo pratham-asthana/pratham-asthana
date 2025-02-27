@@ -28,8 +28,7 @@
 
 ## 💡 Projects & Innovations  
 
-🔹 **🎯 Real-time Object Detection & Segmentation** – Using Fast R-CNN & OpenCV  
-🔹 **🧠 LLM-powered Student Management System** – AI chatbot for book recommendations  
+🔹 **🎯 Object Detection, Segmentation and Extraction** – Using Fast R-CNN & OpenCV    
 🔹 **🖐️ Sign Language Recognition** – Real-time detection of full words using MediaPipe  
 🔹 **📩 Spam Classifier** – Detects and filters spam messages using ML techniques  
 🔹 **💬 Chatter Bot using Gemini API** – AI-powered chatbot leveraging Gemini API  
