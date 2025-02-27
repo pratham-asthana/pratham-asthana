@@ -3,7 +3,7 @@
 🚀 **AI & ML Enthusiast | Data Science & Neural Networks | Musician** 🎸  
 
 💡 Passionate about **AI, Deep Learning, and Computer Vision**  
-🎯 Building **real-time intelligent systems** using **Python, OpenCV, MediaPipe & PyTorch**  
+🎯 Building **real-time intelligent systems** using **Python, OpenCV, MediaPipe & many more technologies**  
 
 ---
 
