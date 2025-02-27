@@ -39,13 +39,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-![Pratham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pratham-asthana&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pratham-asthana&layout=compact&theme=radical)  
-
----
-
 ## 📫 Let's Connect!  
 
 🔹 **Email:** [prathamasthana04@gmail.com](mailto:prathamasthana04@gmail.com)  
