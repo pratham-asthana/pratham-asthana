@@ -10,8 +10,8 @@
 ## 🚀 About Me  
 
 - 🎓 **B.Tech in Artificial Intelligence & Machine Learning (2022-2026)**  
-- 🔥 Passionate about **Computer Vision, Machine Learning, and AI-powered applications**  
-- 🤖 Love working with **Deep Learning, LLMs, and IoT-based smart systems**  
+- 🔥 Passionate about **Computer Vision, Machine Learning, and Data Science**  
+- 🤖 Love working with **Deep Learning, LLMs, and Computer Vision**  
 - 🎶 When not coding, I’m probably **jamming on my guitar** 🎸  
 
 ---
@@ -19,20 +19,21 @@
 ## 🛠️ Tech Stack  
 
 🔹 **Languages:** Python 🐍, C 🚀  
-🔹 **ML/DL Frameworks:** TensorFlow, PyTorch, Scikit-learn, OpenCV, MediaPipe  
-🔹 **Web Development:** Streamlit  
-🔹 **Databases:** MySQL, Firebase 🔥
-🔹 **Cloud & Deployment:** Streamlit, AWS ☁️, GitHub Actions 🚀  
+🔹 **ML/DL Frameworks:** TensorFlow, PyTorch, Scikit-learn, OpenCV, MediaPipe, Ultralytics, Render  
+🔹 **GUI Development:** Streamlit, Swagger UI
+🔹 **Databases:** MySQL, Firebase, 
+🔹 **Cloud & Deployment:** AWS, Render, FastAPI. 
 
 ---
 
 ## 💡 Projects & Innovations  
-
-🔹 **🎯 Object Detection, Segmentation and Extraction** – Using Fast R-CNN & OpenCV    
-🔹 **🖐️ Sign Language Recognition** – Real-time detection of full words using MediaPipe  
-🔹 **📩 Spam Classifier** – Detects and filters spam messages using ML techniques  
-🔹 **💬 Chatter Bot using Gemini API** – AI-powered chatbot leveraging Gemini API  
-🔹 **🌿 Plant Disease Detection Model** – Identifies plant diseases using deep learning  
+🔹 **AI Vision Architect** – Using Label Editor and custom YOLOv8
+🔹 **Breast Cancer Detection** – Using custom Efficient-net B0
+🔹 **Object Detection, Segmentation and Extraction** – Using Fast R-CNN & OpenCV    
+🔹 **Sign Language Recognition** – Real-time detection of full words using MediaPipe  
+🔹 **Spam Classifier** – Detects and filters spam messages using ML techniques  
+🔹 **Chatter Bot using Gemini API** – AI-powered chatbot leveraging Gemini API  
+🔹 **Plant Disease Detection Model** – Identifies plant diseases using deep learning  
  
 
 💻 Check out my projects **[here](https://github.com/pratham-asthana?tab=repositories)**! 🚀  
