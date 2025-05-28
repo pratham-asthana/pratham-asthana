@@ -27,8 +27,8 @@
 ---
 
 ## 💡 Projects & Innovations  
-🔹 **AI Vision Architect** – Using Label Editor and custom YOLOv8
-🔹 **Breast Cancer Detection** – Using custom Efficient-net B0
+🔹 **AI Vision Architect** – Using Label Editor and custom YOLOv8  
+🔹 **Breast Cancer Detection** – Using custom Efficient-net B0  
 🔹 **Object Detection, Segmentation and Extraction** – Using Fast R-CNN & OpenCV    
 🔹 **Sign Language Recognition** – Real-time detection of full words using MediaPipe  
 🔹 **Spam Classifier** – Detects and filters spam messages using ML techniques  
