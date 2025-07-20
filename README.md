@@ -20,8 +20,8 @@
 
 🔹 **Languages:** Python 🐍, C 🚀  
 🔹 **ML/DL Frameworks:** TensorFlow, PyTorch, Scikit-learn, OpenCV, MediaPipe, Ultralytics, Render  
-🔹 **GUI Development:** Streamlit, Swagger UI
-🔹 **Databases:** MySQL, Firebase, 
+🔹 **GUI Development:** Streamlit, Swagger UI  
+🔹 **Databases:** MySQL, Firebase   
 🔹 **Cloud & Deployment:** AWS, Render, FastAPI. 
 
 ---
