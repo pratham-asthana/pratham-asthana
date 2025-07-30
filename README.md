@@ -26,7 +26,7 @@
 
 <p align="center">
   <!-- Excluding issues, pull requests, and reviews trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=pratham-asthana&theme=radical&column=4&exclude=issues,pulls,reviews" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=pratham-asthana&theme=radical&column=7&exclude=issues,pulls,reviews" alt="GitHub Trophies" />
 </p>
 
 ---
