@@ -53,18 +53,29 @@
 | **Breast Cancer Detection**              | Custom EfficientNet-B0 model for tumor classification                        | TensorFlow                   |
 | **License Plate Recognition**            | Detects, segments & extracts license numbers from car images with YOLOv8     | Python, YOLOv8, OpenCV       |
 | **Marksheet Parser**                     | Accurately identifies and parses details from academic marksheets            | Python, OpenCV, OCR          |
-| **Object Detection, Segmentation and Extraction**      | Fast R-CNN pipeline with OpenCV annotations                    | PyTorch, OpenCV              |
-| **MADHYAM**                              | Real-time Sign-Language Transcriber trained on video dataset                 | MediaPipe, Python            |
-| **Spam Classifier**                      | Filters spam messages with ML techniques                                     | Scikit-learn                 |
+| **Object Detection & Segmentation**      | Fast R-CNN pipeline with OpenCV annotations                                  | PyTorch, OpenCV              |
+| **Sign Language Recognition**            | Real-time word detection using MediaPipe                                      | MediaPipe, Python            |
+| **Spam Classifier**                      | Filters spam messages with ML techniques                                      | Scikit-learn                 |
 
 🔗 **Explore more:** [My GitHub Repositories](https://github.com/pratham-asthana?tab=repositories)
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pratham-asthana&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratham-asthana&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <!-- Contribution Graph -->
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=pratham-asthana&theme=react-dark&area=true" alt="Contribution Graph" />
+</p>
+
+<p align="center">
+  <!-- Visitor Badge -->
+  <img src="https://visitor-badge.glitch.me/badge?page_id=pratham-asthana.pratham-asthana" alt="Visitor Count" />
 </p>
 
 ---
