@@ -49,10 +49,6 @@
 
 ## 🚀 Projects
 
-<p align="center">
-  <img src="https://github.com/pratham-asthana/pratham-asthana/raw/main/assets/license_segmentation.png" alt="License Plate" width="250" />
-  <img src="https://github.com/pratham-asthana/pratham-asthana/raw/main/assets/marksheet_parser.png" alt="Marksheet Parser" width="250" />
-</p>
 
 | Project                       | Description                                                       | Tech                   |
 | ----------------------------- | ----------------------------------------------------------------- | ---------------------- |
