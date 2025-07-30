@@ -65,7 +65,7 @@
 ## 🎨 Creative Showcase
 
 <p align="center">
-  <img src="https://github.com/pratham-asthana/pratham-asthana/raw/main/assets/code_flow.gif" alt="Code Flow Animation" width="600" />
+  <img src="https://github.com/pratham-asthana/Blueprint_VIsion/blob/main/sample_functioning_ss.jpg" alt="Code Flow Animation" width="600" />
 </p>
 
 <p align="center">
