@@ -53,9 +53,9 @@
 | **Breast Cancer Detection**              | Custom EfficientNet-B0 model for tumor classification                        | TensorFlow                   |
 | **License Plate Recognition**            | Detects, segments & extracts license numbers from car images with YOLOv8     | Python, YOLOv8, OpenCV       |
 | **Marksheet Parser**                     | Accurately identifies and parses details from academic marksheets            | Python, OpenCV, OCR          |
-| **Object Detection & Segmentation**      | Fast R-CNN pipeline with OpenCV annotations                                  | PyTorch, OpenCV              |
-| **MADHYAM**                              | Real-time word detection using MediaPipe                                      | MediaPipe, Python            |
-| **Spam Classifier**                      | Filters spam messages with ML techniques                                      | Scikit-learn                 |
+| **Object Detection, Segmentation and Extraction**      | Fast R-CNN pipeline with OpenCV annotations                    | PyTorch, OpenCV              |
+| **MADHYAM**                              | Real-time Sign-Language Transcriber trained on video dataset                 | MediaPipe, Python            |
+| **Spam Classifier**                      | Filters spam messages with ML techniques                                     | Scikit-learn                 |
 
 🔗 **Explore more:** [My GitHub Repositories](https://github.com/pratham-asthana?tab=repositories)
 
