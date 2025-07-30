@@ -22,10 +22,11 @@
 
 ---
 
-## 🏆 Achievements & Activity
+## 🏆 Highlights & Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pratham-asthana&theme=radical&column=4" alt="GitHub Trophies" />
+  <!-- Excluding issues, pull requests, and reviews trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=pratham-asthana&theme=radical&column=4&exclude=issues,pullrequests,reviews" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -74,6 +75,18 @@
 
 <p align="center">
   Dive into my projects for interactive demos and write-ups!
+</p>
+
+---
+
+## 💡 Fun Fact
+
+<p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Fun Code Gif" width="400" />
+</p>
+
+<p align="center">
+  "Did you know? I once built a real-time drum kit using MediaPipe hand tracking! 🥁"
 </p>
 
 ---
