@@ -68,7 +68,10 @@
   <img src="https://github.com/pratham-asthana/Blueprint_VIsion/blob/main/sample_functioning_ss.jpg" alt="Code Flow Animation" width="600" />
 </p>
 <p align="center">
-  <img src="https://github.com/pratham-asthana/Custom_treeCounter?tab=readme-ov-file#-1" alt="Code Flow Animation" width="600" />
+  <img src="https://github.com/pratham-asthana/Custom_treeCounter/blob/main/output_images_samples/output1.png" alt="Code Flow Animation" width="600" />
+</p>
+<p align="center">
+  <img src="https://github.com/pratham-asthana/MADHYAM/blob/main/Screenshot%202025-03-01%20122924.png" alt="Code Flow Animation" width="600" />
 </p>
 
 <p align="center">
