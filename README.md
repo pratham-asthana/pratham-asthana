@@ -35,7 +35,7 @@
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/MediaPipe-4285F4?style=for-the-badge&logo=mediapipe&logoColor=white" />
-  <img src="https://img.shields.io/badge/YOLOv8-000000?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgo..." />
+  <img src="https://img.shields.io/badge/YOLOv8-000000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Gemini-34A853?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
@@ -54,28 +54,23 @@
 | **License Plate Recognition**            | Detects, segments & extracts license numbers from car images with YOLOv8     | Python, YOLOv8, OpenCV       |
 | **Marksheet Parser**                     | Accurately identifies and parses details from academic marksheets            | Python, OpenCV, OCR          |
 | **Object Detection & Segmentation**      | Fast R-CNN pipeline with OpenCV annotations                                  | PyTorch, OpenCV              |
-| **Sign Language Recognition**            | Real-time word detection using MediaPipe                                      | MediaPipe, Python            |
-| **Spam Classifier**                      | Filters spam messages with ML techniques                                      | Scikit-learn                 |
+| **Sign Language Recognition**            | Real-time word detection using MediaPipe                                     | MediaPipe, Python            |
+| **Spam Classifier**                      | Filters spam messages with ML techniques                                     | Scikit-learn                 |
 
 🔗 **Explore more:** [My GitHub Repositories](https://github.com/pratham-asthana?tab=repositories)
 
 ---
 
-## 📊 GitHub Insights
+## 🌟 Spotlight & Visuals
 
 <p align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratham-asthana&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <!-- Showcase an engaging AI animation GIF -->
+  <img src="https://github.com/pratham-asthana/pratham-asthana/raw/main/assets/ai-animation.gif" alt="AI Animation" width="500" />
 </p>
 
 <p align="center">
-  <!-- Contribution Graph -->
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=pratham-asthana&theme=react-dark&area=true" alt="Contribution Graph" />
-</p>
-
-<p align="center">
-  <!-- Visitor Badge -->
-  <img src="https://visitor-badge.glitch.me/badge?page_id=pratham-asthana.pratham-asthana" alt="Visitor Count" />
+  <!-- Collage of project snapshots -->
+  <img src="https://github.com/pratham-asthana/pratham-asthana/raw/main/assets/project-collage.png" alt="Project Collage" width="600" />
 </p>
 
 ---
