@@ -13,11 +13,11 @@
 ## 💫 About Me
 
 <p align="center">
-  🎓 <strong>B.Tech in AI & ML</strong> (2022–2026) • 🔭 AI Developer Intern • 🎸 Guitar Enthusiast
+  🎓 <strong>B.Tech in AI & ML</strong> (2022–2026) • 🔭 AI Developer Intern • 🎸 Guitarist
 </p>
 
 <p align="center">
-  🌟 Passionate about Deep Learning, Computer Vision & NLP • Crafting real-time intelligent systems
+  🌟 Passionate about Deep Learning, Computer Vision & AI/ML • Crafting real-time intelligent systems
 </p>
 
 ---
@@ -72,6 +72,9 @@
 </p>
 <p align="center">
   <img src="https://github.com/pratham-asthana/MADHYAM/blob/main/Screenshot%202025-03-01%20122924.png" alt="Code Flow Animation" width="600" />
+</p>
+<p align="center">
+  <img src="https://github.com/pratham-asthana/License-plate-recognition/blob/main/Working.png" alt="Code Flow Animation" width="600" />
 </p>
 
 <p align="center">
