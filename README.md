@@ -25,9 +25,7 @@
 ## 🏆 Achievements & Activity
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/pratham-asthana?style=social" alt="Followers Badge" />
-  <img src="https://img.shields.io/github/stars/pratham-asthana?style=social" alt="Stars Badge" />
-  <img src="https://img.shields.io/github/commit-activity/m/pratham-asthana?style=flat-square" alt="Monthly Commit Activity" />
+  <img src="https://github-profile-trophy.vercel.app/?username=pratham-asthana&theme=radical&column=4" alt="GitHub Trophies" />
 </p>
 
 ---
