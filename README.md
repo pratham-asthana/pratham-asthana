@@ -67,6 +67,9 @@
 <p align="center">
   <img src="https://github.com/pratham-asthana/Blueprint_VIsion/blob/main/sample_functioning_ss.jpg" alt="Code Flow Animation" width="600" />
 </p>
+<p align="center">
+  <img src="https://github.com/pratham-asthana/Custom_treeCounter?tab=readme-ov-file#-1" alt="Code Flow Animation" width="600" />
+</p>
 
 <p align="center">
   Dive into my projects for interactive demos and write-ups!
