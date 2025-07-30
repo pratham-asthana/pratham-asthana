@@ -26,7 +26,7 @@
 
 <p align="center">
   <!-- Excluding issues, pull requests, and reviews trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=pratham-asthana&theme=radical&column=7&exclude=issues,pulls,reviews" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=pratham-asthana&theme=radical&column=4&exclude=issues,pulls,reviews" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -42,7 +42,6 @@
   <img src="https://img.shields.io/badge/YOLOv8-000000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws" />
   <img src="https://img.shields.io/badge/Render-00C7B7?style=for-the-badge" />
 </p>
 
