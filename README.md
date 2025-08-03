@@ -112,6 +112,6 @@
 </p>
 
 <p align="center">
-  <em>"Code, Create, and Innovate!"</em> 🚀
+  <em>"Code, Create, and Innovate!"</em> 
 </p>
 
