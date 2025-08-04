@@ -52,7 +52,7 @@
 
 | Project                       | Description                                                       | Tech                   |
 | ----------------------------- | ----------------------------------------------------------------- | ---------------------- |
-| License Plate Recognition     | Detects, segments & extracts license numbers with YOLOv8 & OpenCV | Python, YOLOv8, OpenCV |
+| License Plate Recognition     | Detects, segments & extracts license numbers with YOLOv8, OpenCV & OCR| Python, YOLOv8, OpenCV |
 | Marksheet Parser              | Parses academic marksheets using OCR & OpenCV                     | Python, OpenCV, OCR    |
 | AI Vision Architect           | Custom Label Editor & YOLOv8 pipeline                             | Python, YOLOv8         |
 | Breast Cancer Detection       | Tumor classification with EfficientNet-B0                         | TensorFlow             |
