@@ -25,9 +25,15 @@
 ## 🏆 Highlights & Trophies
 
 <p align="center">
-  <!-- Excluding issues, pull requests, and reviews trophies -->
+  <!-- Main Trophy Set (excluding issues, pulls, reviews) -->
   <img src="https://github-profile-trophy.vercel.app/?username=pratham-asthana&theme=radical&column=4&exclude=issues,pulls,reviews" alt="GitHub Trophies" />
 </p>
+
+<p align="center">
+  <!-- Additional Trophy Set (focused on followers, stars, commits, etc.) -->
+  <img src="https://github-profile-trophy.vercel.app/?username=pratham-asthana&theme=radical&no-bg=true&title=Followers,Stars,Commits,Repositories" alt="Additional Trophies" />
+</p>
+
 
 ---
 
