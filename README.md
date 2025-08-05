@@ -31,7 +31,7 @@
 
 <p align="center">
   <!-- Additional Trophy Set (focused on followers, stars, commits, etc.) -->
-  <img src="https://github-profile-trophy.vercel.app/?username=pratham-asthana&theme=radical&no-bg=true&title=Followers,Stars,Commits,Repositories" alt="Additional Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=pratham-asthana&theme=radical&no-bg=true&title=Repositories" alt="Alt" />
 </p>
 
 
