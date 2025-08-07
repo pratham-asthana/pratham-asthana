@@ -24,7 +24,10 @@
 
 ## 🏆 Highlights & Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=pratham-asthana&theme=radical&column=4)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pratham-asthana&theme=radical&column=4" alt="GitHub Trophies" />
+</p>
+
 
 
 
