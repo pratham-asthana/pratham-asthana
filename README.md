@@ -6,10 +6,10 @@
 
 <h4>📌 About Me</h4>
 
-
+<p align = 'center'>
 🧠 AI & ML Engineer | 💻 Developer | 🎸 Music Enthusiast  
 Transforming ideas into intelligent real-time solutions, one model at a time!
-
+</p>p
 
 #### 💻 Languages
 <p align="center">
