@@ -7,7 +7,7 @@
 <h4>📌 About Me</h4>
 
 
-🧠 AI & ML Engineer | 💻 Developer | 🎸 Music Enthusiast
+🧠 AI & ML Engineer | 💻 Developer | 🎸 Music Enthusiast  
 Transforming ideas into intelligent real-time solutions, one model at a time!
 
 
