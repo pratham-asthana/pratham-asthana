@@ -15,12 +15,12 @@ Transforming ideas into intelligent real-time solutions, one model at a time!
 
 #### 💻 Languages
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,java,javascript,c,cpp" />
+    <img src="https://skillicons.dev/icons?i=python,c,SQL" />
 </p>
 
 #### 🤖 AI & Machine Learning
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,keras,huggingface" />
     <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
     <img alt="MediaPipe" src="https://img.shields.io/badge/MediaPipe-4285F4?style=for-the-badge&logo=google&logoColor=white">
     <img alt="YOLOv8" src="https://img.shields.io/badge/YOLOv8-000000?style=for-the-badge">
@@ -56,7 +56,7 @@ Transforming ideas into intelligent real-time solutions, one model at a time!
 
 ### 🔥 Stats
 
-[![Pratham's Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pratham-asthana&theme=radical&hide_border=true)]
+![Pratham's Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pratham-asthana&theme=radical&hide_border=true)
 
 
 ### 🌐 Connect With Me
@@ -81,25 +81,12 @@ Transforming ideas into intelligent real-time solutions, one model at a time!
   "Did you know? I once built a real-time drum kit using MediaPipe hand tracking! 🥁"
 </p>
 
-### 🎨 Profile Views
-<p align="center"> 
-    <img src="https://komarev.com/ghpvc/?username=pratham-asthana&label=Profile%20views&color=0e75b6&style=flat" alt="pratham-asthana" /> 
-</p>
+---
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/pratham-asthana/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/pratham-asthana/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/pratham-asthana/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
+### 🐍 GitHub Contribution Snake
+<p align="center">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pratham-asthana/pratham-asthana/output/github-contribution-grid-snake.svg" />
+</p>
 
 <p align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
