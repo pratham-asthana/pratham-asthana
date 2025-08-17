@@ -26,21 +26,9 @@ Transforming ideas into intelligent real-time solutions, one model at a time!
     <img alt="YOLOv8" src="https://img.shields.io/badge/YOLOv8-000000?style=for-the-badge">
 </p>
 
-### 🛠 Development Ecosystem
-
-#### 🌐 Web Technologies
+#### 🚀 Cloud & DevOps
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,django,fastapi,streamlit" />
-</p>
-
-#### 🗃 Databases
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,postgres" />
-</p>
-
-### 🚀 Cloud & DevOps
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=git,github,render,vercel,heroku,docker,aws,firebase" />
+    <img src="https://skillicons.dev/icons?i=git,github,render,heroku,docker,aws,firebase" />
 </p>
 
 ### 📊 GitHub Analytics
