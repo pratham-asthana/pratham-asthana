@@ -57,7 +57,7 @@
 
 ---
 
-### 🐍 GitHub Contribution Snake
+### 🐍 GitHub Contributions
 
 ![snake gif](https://github.com/pratham-asthana/pratham-asthana/blob/output/github-snake-dark.svg)
 
