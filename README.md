@@ -47,19 +47,6 @@ Transforming ideas into intelligent real-time solutions, one model at a time!
 ![Pratham's Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pratham-asthana&theme=radical&hide_border=true)
 
 
-### 🌐 Connect With Me
-<p align="center">
-    <a href="https://linkedin.com/in/pratham-asthana-243133265" target="_blank">
-        <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>
-    <a href="mailto:prathamasthana04@gmail.com" target="_blank">
-        <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-    </a>
-    <a href="https://github.com/pratham-asthana" target="_blank">
-        <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-    </a>
-</p>
-
 ### 💡 Fun Fact
 <p align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Fun Code Gif" width="400" />
@@ -73,7 +60,20 @@ Transforming ideas into intelligent real-time solutions, one model at a time!
 
 ### 🐍 GitHub Contribution Snake
 <p align="center">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pratham-asthana/pratham-asthana/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pratham-asthana/pratham-asthana/output/github-snake.svg" />
+</p>
+
+### 🌐 Connect With Me
+<p align="center">
+    <a href="https://linkedin.com/in/pratham-asthana-243133265" target="_blank">
+        <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+    <a href="mailto:prathamasthana04@gmail.com" target="_blank">
+        <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+    <a href="https://github.com/pratham-asthana" target="_blank">
+        <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+    </a>
 </p>
 
 <p align="center">
