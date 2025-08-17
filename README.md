@@ -5,8 +5,11 @@
 <h1 align="center">🌟 Hey There! I'm Pratham Asthana 👨‍💻🚀</h1>
 
 <h4>📌 About Me</h4>
-🧠 AI & ML Engineer | 💻 Developer | 🎸 Music Enthusiast  
-Transforming ideas into intelligent real-time solutions, one model at a time!
+
+<div align="center">
+  🧠 AI & ML Engineer | 💻 Developer | 🎸 Music Enthusiast <br>
+  Transforming ideas into intelligent real-time solutions, one model at a time!
+</div>
 
 
 #### 💻 Languages
