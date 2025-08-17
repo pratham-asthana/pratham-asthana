@@ -11,8 +11,6 @@
 Transforming ideas into intelligent real-time solutions, one model at a time!
 
 
-### 🔬 Tech Arsenal
-
 #### 💻 Languages
 <p align="center">
     <img src="https://skillicons.dev/icons?i=python,c,SQL" />
