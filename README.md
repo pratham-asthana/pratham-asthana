@@ -60,7 +60,7 @@ Transforming ideas into intelligent real-time solutions, one model at a time!
 
 ### 🐍 GitHub Contribution Snake
 <p align="center">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pratham-asthana/pratham-asthana/output/github-snake.svg" />
+  ![snake gif](https://github.com/pratham-asthana/pratham-asthana/blob/output/github-snake-dark.svg)
 </p>
 
 
