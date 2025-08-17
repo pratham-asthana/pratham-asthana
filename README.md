@@ -59,9 +59,9 @@ Transforming ideas into intelligent real-time solutions, one model at a time!
 ---
 
 ### 🐍 GitHub Contribution Snake
-<p align="center">
-  ![snake gif](https://github.com/pratham-asthana/pratham-asthana/blob/output/github-snake-dark.svg)
-</p>
+
+![snake gif](https://github.com/pratham-asthana/pratham-asthana/blob/output/github-snake-dark.svg)
+
 
 
 ### 🌐 Connect With Me
