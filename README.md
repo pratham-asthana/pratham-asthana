@@ -31,17 +31,16 @@
 </p>
 
 ### 📊 GitHub Analytics
-![trophy](https://github-profile-trophy.vercel.app/api?username=pratham-asthana&theme=tokyonight&no-frame=true)
-
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pratham-asthana/pratham-asthana/main/github-metrics.svg" alt="GitHub Metrics" width="600">
+</p>
 
 
 
 
 ### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pratham-asthana&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=pratham-asthana&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 
