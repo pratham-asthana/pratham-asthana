@@ -47,7 +47,9 @@
 
 ### 🔥 Stats
 
-![Pratham's Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pratham-asthana&theme=radical&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratham-asthana&theme=tokyonight" alt="GitHub Streak Stats"/>
+</p>
 
 
 ### 💡 Fun Fact
