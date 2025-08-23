@@ -39,7 +39,8 @@
 
 
 ### 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=pratham-asthana&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=pratham-asthana)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
