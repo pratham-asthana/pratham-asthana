@@ -32,9 +32,10 @@
 
 ### 📊 GitHub Analytics
 <p align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pratham-asthana&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratham-asthana&layout=compact&langs_count=7&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pratham-asthana&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratham-asthana&layout=compact&langs_count=7&theme=tokyonight&cache_seconds=1800"/>
 </p>
+
 
 ### 🏆 GitHub Trophies
 <p align="center">
