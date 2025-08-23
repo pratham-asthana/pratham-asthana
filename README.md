@@ -31,9 +31,8 @@
 </p>
 
 ### 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github.com/pratham-asthana/pratham-asthana/blob/main/metrics.svg" alt="GitHub Metrics" width="600">
-</p>
+[![Metrics](https://github.com/pratham-asthana/pratham-asthana/blob/main/metrics.svg)](https://github.com/pratham-asthana)
+
 
 
 
