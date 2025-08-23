@@ -31,9 +31,8 @@
 </p>
 
 ### 📊 GitHub Analytics
-<p align="center">
-  <img src="https://raw.githubusercontent.com/pratham-asthana/pratham-asthana/main/github-metrics.svg" alt="GitHub Metrics" width="600">
-</p>
+![trophy](https://github-profile-trophy.vercel.app/api?username=pratham-asthana&theme=tokyonight&no-frame=true)
+
 
 
 
