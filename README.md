@@ -20,6 +20,8 @@
 #### 🤖 AI & Machine Learning
 <p align="center">
     <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,keras,huggingface" />
+    <img alt="LangChain" src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge">
+    <img alt="RAG" src="https://img.shields.io/badge/RAG-Retrieval--Augmented--Generation-blueviolet?style=for-the-badge">
     <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
     <img alt="MediaPipe" src="https://img.shields.io/badge/MediaPipe-4285F4?style=for-the-badge&logo=google&logoColor=white">
     <img alt="YOLOv8" src="https://img.shields.io/badge/YOLOv8-000000?style=for-the-badge">
