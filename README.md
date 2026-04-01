@@ -2,22 +2,22 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
 </p>
 
-<h1 align="center">🌟 Hey There! I'm Pratham Asthana 👨‍💻🚀</h1>
+<h1 align="center"> Hey There! I'm Pratham Asthana </h1>
 
-<h4>📌 About Me</h4>
+<h4> About Me</h4>
 
 <div align="center">
-  🧠 AI & ML Engineer | 💻 Developer | 🎸 Music Enthusiast <br>
+   AI & ML Engineer | Developer | Music Enthusiast <br>
   Transforming ideas into intelligent real-time solutions, one model at a time!
 </div>
 
 
-#### 💻 Languages
+#### Languages
 <p align="center">
     <img src="https://skillicons.dev/icons?i=python,c,SQL" />
 </p>
 
-#### 🤖 AI & Machine Learning
+#### AI & Machine Learning
 <p align="center">
     <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,keras,huggingface" />
     <img alt="LangChain" src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge">
@@ -27,12 +27,12 @@
     <img alt="YOLOv8" src="https://img.shields.io/badge/YOLOv8-000000?style=for-the-badge">
 </p>
 
-#### 🚀 Cloud & DevOps
+#### Cloud & DevOps
 <p align="center">
     <img src="https://skillicons.dev/icons?i=git,github,render,heroku,docker,aws,firebase" />
 </p>
 
-### 📊 GitHub Analytics
+### GitHub Analytics
 <p align="center">
   <img src="https://raw.githubusercontent.com/pratham-asthana/pratham-asthana/main/github-metrics.svg" alt="GitHub Metrics" width="600">
 </p>
@@ -40,20 +40,20 @@
 
 
 
-### 🏆 GitHub Trophies
+### GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=pratham-asthana&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
-### 🔥 Stats
+### Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratham-asthana&theme=tokyonight" alt="GitHub Streak Stats"/>
 </p>
 
 
-### 💡 Fun Fact
+### Fun Fact
 <p align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Fun Code Gif" width="400" />
 </p>
@@ -64,13 +64,13 @@
 
 ---
 
-### 🐍 GitHub Contributions
+### GitHub Contributions
 
 ![snake gif](https://github.com/pratham-asthana/pratham-asthana/blob/output/github-snake-dark.svg)
 
 
 
-### 🌐 Connect With Me
+### Connect With Me
 <p align="center">
     <a href="https://linkedin.com/in/pratham-asthana-243133265" target="_blank">
         <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
